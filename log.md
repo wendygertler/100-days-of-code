@@ -19,3 +19,12 @@
 **Link(s) to some of the work**
 1. [Learn how Script Tags and Document Ready Work](https://www.freecodecamp.com/challenges/learn-how-script-tags-and-document-ready-work)
 2. [Target the same element with multiple jQuery Selectors](https://www.freecodecamp.com/challenges/target-the-same-element-with-multiple-jquery-selectors)
+
+### Day 3: January 5, 2017, Thursday
+
+**Today's Progress**: I created a David Bowie Tribute Page, using Bootstrap, on CodePen as my first project in Free Code Camp.
+
+**Thoughts** It's been awhile since I've worked with Bootstrap; so, I really enjoyed this project. I'm going to create more sites using Bootstrap so I can practice and learn more advanced techniques.
+
+**Link(s) to work**
+1. [CodePen David Bowie Tribute Page](https://codepen.io/wgertler/full/MJYLVV/)
