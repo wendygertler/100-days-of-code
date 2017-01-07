@@ -28,3 +28,12 @@
 
 **Link(s) to work**
 1. [CodePen David Bowie Tribute Page](https://codepen.io/wgertler/full/MJYLVV/)
+
+### Day 4: January 6, 2017, Friday
+
+**Today's Progress**: I started working on project 2 on FreeCodeCamp, Build a Personal Portfolio Webpage.
+
+**Thoughts** I decided not to use Bootstrap for this project, since I used it for the last one. I enjoy writing CSS and watching my website come to life in the browser.
+
+**Link(s) to work**
+1. [Build a Personal Portfolio Webpage](http://codepen.io/wgertler/pen/VPLKer)
