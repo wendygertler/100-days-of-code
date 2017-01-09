@@ -37,3 +37,13 @@
 
 **Link(s) to work**
 1. [Build a Personal Portfolio Webpage](http://codepen.io/wgertler/pen/VPLKer)
+
+### Day 5: January 7, 2017, Saturday
+
+**Today's Progress**: I had to update my own website to add a Shopify referral link. I continued to work on project 2 on FreeCodeCamp, Build a Personal Portfolio Webpage.
+
+**Thoughts** I forget things when I don't code for awhile, so I had to look things up; but, that's good because I'm constantly learning all over again.
+
+**Link(s) to work**
+1. [Build a Personal Portfolio Webpage](http://codepen.io/wgertler/pen/VPLKer)
+
