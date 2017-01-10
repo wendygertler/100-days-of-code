@@ -47,3 +47,11 @@
 **Link(s) to work**
 1. [Build a Personal Portfolio Webpage](http://codepen.io/wgertler/pen/VPLKer)
 
+### Day 6: January 9, 2017, Monday
+
+**Today's Progress**: I continued working on Free Code Camps's project Build a Personal Portfolio Webpage.
+
+**Thoughts** Rolling right along. Staying focused and feeling good.
+
+**Link(s) to work**
+1. [Build a Personal Portfolio Webpage](http://codepen.io/wgertler/pen/VPLKer)
