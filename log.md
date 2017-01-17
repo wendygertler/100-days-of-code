@@ -55,3 +55,12 @@
 
 **Link(s) to work**
 1. [Build a Personal Portfolio Webpage](http://codepen.io/wgertler/pen/VPLKer)
+
+### Day 7: January 16, 2017, Monday
+
+**Today's Progress**: I continued working on Free Code Camps's project Build a Personal Portfolio Webpage.
+
+**Thoughts** Changed a few things and now I can't get my name/logo and nav to line up in the header.
+
+**Link(s) to work**
+1. [Build a Personal Portfolio Webpage](https://codepen.io/wgertler/pen/VPLKer)
